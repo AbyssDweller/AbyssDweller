@@ -1,7 +1,7 @@
 <h1 align="center">Hey 👋, I'm Azure</h1>
 <h3 align="center">A passionate developer with no knowledge of anything!</h3>
 
-- 🔭 I’m currently working on [Twilight](AbyssDweller/Twilight)
+- 🔭 I’m currently working on [Twilight](https://github.com/AbyssDweller/Twilight)
 
 - ⚡ Fun fact **I own a discord server with 700+ members**
 
