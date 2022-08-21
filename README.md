@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Twilight](https://github.com/AbyssDweller/Twilight)
 
-- ⚡ Fun fact **I own a discord server with 800+ members**
+- ⚡ Fun fact **I own a discord server with 900+ members**
 
 - 🤝 I’m looking for help with **learning how to code 😅**
 
