@@ -1,7 +1,7 @@
 <h1 align="center">Hey 👋, I'm Azure</h1>
 <h3 align="center">A passionate developer with no knowledge of anything!</h3>
 
-- 🔭 I’m currently working on [Aspects](https://github.com/AbyssDweller/Aspects-Continued)
+- 🔭 I’m currently working on [Aspects](https://github.com/Fishplex/Aspects)
 
 - ⚡ Fun fact **I own a discord server with 900+ members**
 
