@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Aspects](https://github.com/Fishplex/Aspects)
 
-- ⚡ Fun fact **I own a discord server with 900+ members**
+- ⚡ Fun fact **I own a discord server with 1000+ members**
 
 - 🤝 I’m looking for help with **learning how to code 😅**
 
