@@ -1,7 +1,7 @@
 <h1 align="center">Hey 👋, I'm Azure</h1>
 <h3 align="center">A passionate developer with no knowledge of anything!</h3>
 
-- 🔭 I’m currently working on [Aspects](https://github.com/Fishplex/Aspects)
+- 🔭 I’m currently working on [Tensura:Reincarnated](https://github.com/ManasMods/reincarnated_mod/tree/dev/lazuline)
 
 - ⚡ Fun fact **I own a discord server with 1000+ members**
 
