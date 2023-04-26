@@ -10,8 +10,7 @@
 - 🌱 I’m currently learning **Java and javascript.**
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://stackoverflow.com/users/19544941" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="19544941" height="30" width="40" /></a>
+<h3 align="left">
 <a href="https://discord.gg/7uC27yjMaS" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="CKVWKW2vWx" height="30" width="40" /></a>
 </p>
 
